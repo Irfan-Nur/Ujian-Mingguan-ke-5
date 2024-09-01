@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/irfan/AppData/Local/Temp/c71b05c2-79ec-452f-8efb-df766e2bca1b_jc-cucumber-hooks[1].zip.a1b/Ujian-Mingguan-ke-5/src/test/java/LoginTest.java">
+        <classes/>
+    </test>
+</suite>
